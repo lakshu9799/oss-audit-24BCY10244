@@ -1,0 +1,8 @@
+Project Manifest
+================
+Project: Open Source Audit
+Purpose: To simplify programming and make it easy to build applications, automate tasks, and develop software.
+Contributors: Lakshya Pandya
+
+Summary:
+This manifest describes the setup and goals of the project. Open Source Audit is intended for learning and open source analysis with a focus on Python environment insights.
